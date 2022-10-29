@@ -46,7 +46,7 @@ cd ~/arm_ws/src/
 
 - Clonar el paquete de brazo en _arm\_ws/src_:
 ```console
-git clone https://github.com/robocol-rem-u/robocol_new_arm.git
+git clone https://github.com/jcgutierrezg/ARM-MoveIt
 ```
 
 - Volver a la raíz del workspace:
