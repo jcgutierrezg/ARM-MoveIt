@@ -80,7 +80,7 @@ mkdir -p ~/arm_ws/src
 cd ~/arm_ws/
 catkin_make
 cd ~/arm_ws/src/
-git clone https://github.com/robocol-rem-u/robocol_new_arm.git
+git clone https://github.com/jcgutierrezg/ARM-MoveIt
 cd ~/arm_ws/
 catkin_make
 source devel/setup.bash
